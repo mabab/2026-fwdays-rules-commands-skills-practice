@@ -1,0 +1,6 @@
+# Cursor IDE Plans Directory
+
+This directory is for storing Cursor IDE plan files that should be tracked in version control.
+
+Note: Cursor IDE may also store plans in the user's home directory (~/.cursor/plans/), 
+but plans stored here in the project will be version controlled and shared with the team.
